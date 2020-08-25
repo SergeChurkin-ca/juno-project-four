@@ -2,11 +2,9 @@
 
 ### https://rachelserge.github.io/rachelSergeProjectFour/index.html
 
-Project due dates can be found [here](https://github.com/HackerYou/bootcamp-notes/blob/master/stuff-you-need-to-know/important-dates.md).
-
 ## Project description
 
-Your task for this week is to collaboratively create a web application using JavaScript and an API.
+The task for this week is to collaboratively create a web application using JavaScript and an API.
 
 We've provided a list of RESTful APIs that can be accessed publicly and have decent documentation. Try to work with an API that has data you find interesting - it'll be more fun that way! If you're not sure that an API meets requirements, talk to an instructor.
 
